@@ -1,0 +1,14 @@
+uuid: 63f1fe46-b811-48e4-ba7e-fb8c8631df34
+name: test20180123
+mail: aaron@messageagency.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
